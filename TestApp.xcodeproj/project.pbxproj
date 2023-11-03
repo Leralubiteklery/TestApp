@@ -14,7 +14,7 @@
 		EDB008BB2AF3EECB003736E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDB008BA2AF3EECB003736E3 /* Assets.xcassets */; };
 		EDB008BE2AF3EECB003736E3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDB008BC2AF3EECB003736E3 /* LaunchScreen.storyboard */; };
 		EDB008C62AF3EF4A003736E3 /* SoundBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB008C52AF3EF4A003736E3 /* SoundBar.swift */; };
-		EDB008CE2AF4D4D2003736E3 /* TestAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB008CD2AF4D4D2003736E3 /* TestAppTests.swift */; };
+		EDB008CE2AF4D4D2003736E3 /* SoundBarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB008CD2AF4D4D2003736E3 /* SoundBarTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,7 +38,7 @@
 		EDB008BF2AF3EECB003736E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EDB008C52AF3EF4A003736E3 /* SoundBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundBar.swift; sourceTree = "<group>"; };
 		EDB008CB2AF4D4D2003736E3 /* TestAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		EDB008CD2AF4D4D2003736E3 /* TestAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestAppTests.swift; sourceTree = "<group>"; };
+		EDB008CD2AF4D4D2003736E3 /* SoundBarTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundBarTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,7 +95,7 @@
 		EDB008CC2AF4D4D2003736E3 /* TestAppTests */ = {
 			isa = PBXGroup;
 			children = (
-				EDB008CD2AF4D4D2003736E3 /* TestAppTests.swift */,
+				EDB008CD2AF4D4D2003736E3 /* SoundBarTests.swift */,
 			);
 			path = TestAppTests;
 			sourceTree = "<group>";
@@ -212,7 +212,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EDB008CE2AF4D4D2003736E3 /* TestAppTests.swift in Sources */,
+				EDB008CE2AF4D4D2003736E3 /* SoundBarTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
