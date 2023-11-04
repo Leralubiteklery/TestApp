@@ -39,6 +39,7 @@
 		EDB008C52AF3EF4A003736E3 /* SoundBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundBar.swift; sourceTree = "<group>"; };
 		EDB008CB2AF4D4D2003736E3 /* TestAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDB008CD2AF4D4D2003736E3 /* SoundBarTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundBarTests.swift; sourceTree = "<group>"; };
+		EDB191B12AF623A80040BD65 /* TestApp.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = TestApp.xctestplan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 		EDB008A52AF3EEC9003736E3 = {
 			isa = PBXGroup;
 			children = (
+				EDB191B12AF623A80040BD65 /* TestApp.xctestplan */,
 				EDB008B02AF3EEC9003736E3 /* TestApp */,
 				EDB008CC2AF4D4D2003736E3 /* TestAppTests */,
 				EDB008AF2AF3EEC9003736E3 /* Products */,
